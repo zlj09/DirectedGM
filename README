@@ -1,0 +1,1 @@
+This is a Python implementation of the directed graphical model of binary random variables, with train, query (based on variable elimination), comparing, sampling functions. For more details, please have a look at introduction.pdf.
